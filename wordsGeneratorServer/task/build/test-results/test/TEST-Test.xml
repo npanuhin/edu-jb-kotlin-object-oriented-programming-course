@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-02-21T11:18:12" hostname="LAPTOP-PANUHIN" time="1.664">
+  <properties/>
+  <testcase name="[1] keyWord=photomechanochemistry, newWord=, isValid=false" classname="Test" time="0.195"/>
+  <testcase name="[2] keyWord=photomechanochemistry, newWord=lalala, isValid=false" classname="Test" time="0.016"/>
+  <testcase name="[3] keyWord=photomechanochemistry, newWord=photo, isValid=true" classname="Test" time="0.002"/>
+  <testcase name="[4] keyWord=photomechanochemistry, newWord=photoooooooo, isValid=false" classname="Test" time="0.009"/>
+  <testcase name="[5] keyWord=photomechanochemistry, newWord=photophoto, isValid=false" classname="Test" time="0.013"/>
+  <testcase name="teamTeamServiceTest()" classname="Test" time="1.069"/>
+  <testcase name="gameResultsServiceTest()" classname="Test" time="0.047"/>
+  <testcase name="getAllGameResultsMethodTest()" classname="Test" time="0.011"/>
+  <testcase name="wordServiceTest()" classname="Test" time="0.057"/>
+  <testcase name="teamClassTest()" classname="Test" time="0.133"/>
+  <testcase name="isNewWordMethodTest()" classname="Test" time="0.004"/>
+  <testcase name="generateTeamsForOneRoundMethodTest()" classname="Test" time="0.007"/>
+  <testcase name="saveGameResultsMethodTest()" classname="Test" time="0.041"/>
+  <testcase name="generateNextWordMethodTest()" classname="Test" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

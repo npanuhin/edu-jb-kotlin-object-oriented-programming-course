@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-02-25T16:00:49" hostname="LAPTOP-PANUHIN" time="3.521">
+  <properties/>
+  <testcase name="cardDataInterfaceTestClassTest()" classname="Test" time="0.123"/>
+  <testcase name="keyCardServiceTestClassTest()" classname="Test" time="2.124"/>
+  <testcase name="keyCardTestClassTest()" classname="Test" time="0.3"/>
+  <testcase name="cardServiceTestClassTest()" classname="Test" time="0.099"/>
+  <testcase name="utilObjectExtendedTestClassTest()" classname="Test" time="0.04"/>
+  <testcase name="cardStateTestClassTest()" classname="Test" time="0.738"/>
+  <testcase name="cardTestClassTest()" classname="Test" time="0.009"/>
+  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.001"/>
+  <testcase name="wordCardDataTestClassTest()" classname="Test" time="0.009"/>
+  <testcase name="keyCardGeneratorTestClassTest()" classname="Test" time="0.006"/>
+  <testcase name="utilObjectTestClassTest()" classname="Test" time="0.026"/>
+  <testcase name="keyCardTypeTestClassTest()" classname="Test" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
